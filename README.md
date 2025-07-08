@@ -9,7 +9,7 @@ AIFFEL_quest_cr
 │   ├── Quest01  
 │       ├── .ipynb  
 │       └── README.md  
-├── Exploration
+├── Exploration  
 │   ├── Quest01  
 │       ├── .ipynb  
 │       └── README.md
