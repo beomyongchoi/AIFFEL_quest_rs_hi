@@ -12,9 +12,9 @@ AIFFEL_quest_cr
 ├── Exploration  
 │   ├── Quest01  
 │       ├── .ipynb  
-│       └── README.md
-│     
-└── GoingDeeper      
+│       └── README.md  
+│  
+└── GoingDeeper  
     ├── Quest01  
         ├── .ipynb  
-        └── README.md
+        └── README.md 
