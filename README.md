@@ -7,14 +7,20 @@
 AIFFEL_quest_cr  
 ├── MainQuest  
 │   ├── Quest01  
-│       ├── .ipynb  
-│       └── README.md  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+.   .  
+.   .  
 ├── Exploration  
 │   ├── Quest01  
-│       ├── .ipynb  
-│       └── README.md  
-│  
+│   │   ├── .ipynb  
+│   │   └── README.md  
+.   .  
+.   .  
 └── GoingDeeper  
     ├── Quest01  
-        ├── .ipynb  
-        └── README.md  
+    │   ├── .ipynb  
+    │   └── README.md  
+    .  
+    .  
+    
